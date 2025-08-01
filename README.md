@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! I'm Ribel 👋
 
-<!--
-**RibelK/RibelK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Junior Developer | Backend & Mobile Developer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Focused on backend development with Java, Spring Boot, and Oracle 
+- 📱 Building mobile apps using Kotlin + Jetpack Compose  
+- 🔁 Developing real-time systems with WebSocket and REST APIs  
+- 📚 Knowledge Seeker
+
+---
+
+## 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ribel_28@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribel-kafrouni/)
