@@ -11,16 +11,8 @@ Visit [my website](https://ribelk.github.io/) or connect with me on:
 
 ---
 
-### <sup>TOPICS I'VE WORKED ON</sup>
-
-<a href="https://github.com/RibelK?tab=repositories&sort=name">![Topics from repositories](./.github/assets/topics.svg)</a>
-
 ### <sup>MY TECH STACK</sup>
 
 <a href="https://github.com/RibelK?tab=repositories&sort=name">
   <img height=40 src="https://skillicons.dev/icons?i=java,kotlin,spring,gradle,js,react,mongodb,postgres,docker,git,azure" />
 </a>
-
-<br>
-
-_Last updated on Sat, 20 Jun 2026 10:50:34 WIB_
