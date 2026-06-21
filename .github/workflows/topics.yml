@@ -17,6 +17,6 @@ jobs:
       - name: Generate word cloud
         uses: stefani-gifta/wordcloud-repo-topics@main
         with:
-          token: ${{ secrets.WORDCLOUD_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           output_file: .github/assets/topics.svg
           commit_msg: "daily asset update: topics"

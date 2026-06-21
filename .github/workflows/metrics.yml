@@ -16,7 +16,7 @@ jobs:
       - name: Metrics - Base
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: America/Sao_Paulo
           base: header
           filename: .github/assets/metrics.svg
