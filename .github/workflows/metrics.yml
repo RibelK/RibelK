@@ -19,6 +19,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: America/Sao_Paulo
           base: header
-          filename: .github/assets/metrics.svg
+          filename: metrics.svg
           repositories_skipped:
           committer_message: "daily asset update: metrics"
