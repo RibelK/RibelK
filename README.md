@@ -1,18 +1,26 @@
-# Hey there! I'm Ribel 👋
+<div align="center">
 
-🚀 **Junior Developer | Backend & Mobile Developer**  
+# _Hello, I'm b1tes_
 
----
+<a href="https://github.com/ribelk">![b1tes's metrics](./.github/assets/metrics.svg)</a>
 
-## 👨‍💻 About Me
+Visit [my website](https://ribelk.github.io/) or connect with me on:
 
-- 💻 Focused on backend development with Java, Spring Boot, and Oracle 
-- 📱 Building mobile apps using Kotlin + Jetpack Compose  
-- 🔁 Developing real-time systems with WebSocket and REST APIs  
-- 📚 Knowledge Seeker
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribel-kafrouni/)
+[![Email](https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribel_28@hotmail.com)
 
 ---
 
-## 📫 Connect with Me
+### <sup>TOPICS I'VE WORKED ON</sup>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ribel_28@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribel-kafrouni/)
+<a href="https://github.com/RibelK?tab=repositories&sort=name">![Topics from repositories](./.github/assets/topics.svg)</a>
+
+### <sup>MY TECH STACK</sup>
+
+<a href="https://github.com/RibelK?tab=repositories&sort=name">
+  <img height=40 src="https://skillicons.dev/icons?i=java,kotlin,spring,gradle,js,react,mongodb,postgres,docker,git,azure" />
+</a>
+
+<br>
+
+_Last updated on Sat, 20 Jun 2026 10:50:34 WIB_

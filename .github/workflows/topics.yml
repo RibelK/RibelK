@@ -1,0 +1,22 @@
+name: Update Topics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate word cloud
+        uses: stefani-gifta/wordcloud-repo-topics@main
+        with:
+          token: ${{ secrets.WORDCLOUD_TOKEN }}
+          output_file: .github/assets/topics.svg
+          commit_msg: "daily asset update: topics"
